@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Constructor Default\\Constructor Default.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Constructor Default\\Constructor Default.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Constructor Default\\Constructor Default.csproj",
+        "projectName": "Constructor Default",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Constructor Default\\Constructor Default.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Constructor Default\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
