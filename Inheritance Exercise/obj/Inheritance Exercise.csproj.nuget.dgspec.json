@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Composition\\Composition.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Exercise\\Inheritance Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Composition\\Composition.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Exercise\\Inheritance Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Composition\\Composition.csproj",
-        "projectName": "Composition",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Composition\\Composition.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Exercise\\Inheritance Exercise.csproj",
+        "projectName": "Inheritance Exercise",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Exercise\\Inheritance Exercise.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Composition\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

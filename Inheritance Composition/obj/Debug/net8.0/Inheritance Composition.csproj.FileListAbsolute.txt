@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\bin\Debug\net8.0\Inheritance Composition.exe
+c:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\bin\Debug\net8.0\Inheritance Composition.deps.json
+c:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\bin\Debug\net8.0\Inheritance Composition.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\bin\Debug\net8.0\Inheritance Composition.dll
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\bin\Debug\net8.0\Inheritance Composition.pdb
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.dll
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\refint\Inheritance Composition.dll
+C:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.pdb
+c:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\Inheritance Composition.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch 11\Inheritance Composition\obj\Debug\net8.0\ref\Inheritance Composition.dll
