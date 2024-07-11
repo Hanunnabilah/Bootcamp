@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -48,6 +48,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_Internal", "Encapsulation_Internal\Encapsulation_Internal.csproj", "{BF713EA3-0D56-43EC-88E5-44CCF5C74A9E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_Int2", "Encapsulation_Int2\Encapsulation_Int2.csproj", "{225C2EFB-D7E9-4A16-B9D8-C81A08F3597B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Overriding", "Polymorphism_Overriding\Polymorphism_Overriding.csproj", "{94764D4D-F4B5-4CCF-827B-0333AF69E2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Overriding2", "Polymorphism_Overriding2\Polymorphism_Overriding2.csproj", "{CD356112-6328-4435-A4BD-2141123C3021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Overloading", "Polymorphism_Overloading\Polymorphism_Overloading.csproj", "{3275DFEA-74A4-404E-8E99-B16AA2338C6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +137,18 @@ Global
 		{225C2EFB-D7E9-4A16-B9D8-C81A08F3597B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{225C2EFB-D7E9-4A16-B9D8-C81A08F3597B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{225C2EFB-D7E9-4A16-B9D8-C81A08F3597B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94764D4D-F4B5-4CCF-827B-0333AF69E2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94764D4D-F4B5-4CCF-827B-0333AF69E2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94764D4D-F4B5-4CCF-827B-0333AF69E2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94764D4D-F4B5-4CCF-827B-0333AF69E2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD356112-6328-4435-A4BD-2141123C3021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD356112-6328-4435-A4BD-2141123C3021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD356112-6328-4435-A4BD-2141123C3021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD356112-6328-4435-A4BD-2141123C3021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3275DFEA-74A4-404E-8E99-B16AA2338C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3275DFEA-74A4-404E-8E99-B16AA2338C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3275DFEA-74A4-404E-8E99-B16AA2338C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3275DFEA-74A4-404E-8E99-B16AA2338C6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -139,6 +157,8 @@ Global
 		SolutionGuid = {604CFC4D-5CF0-4EBF-BB1C-C5DDB6A078DC}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{CD356112-6328-4435-A4BD-2141123C3021} = {0FE48645-0EE6-42C0-97F2-0E76C9951C82}
+		{94764D4D-F4B5-4CCF-827B-0333AF69E2BB} = {0FE48645-0EE6-42C0-97F2-0E76C9951C82}
 		{BF713EA3-0D56-43EC-88E5-44CCF5C74A9E} = {0FE48645-0EE6-42C0-97F2-0E76C9951C82}
 		{225C2EFB-D7E9-4A16-B9D8-C81A08F3597B} = {0FE48645-0EE6-42C0-97F2-0E76C9951C82}
 		{5B1E10C2-C229-4AC6-8A2C-4DBD28930A17} = {0FE48645-0EE6-42C0-97F2-0E76C9951C82}
