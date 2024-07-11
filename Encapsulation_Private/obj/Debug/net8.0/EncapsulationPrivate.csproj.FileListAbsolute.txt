@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\bin\Debug\net8.0\EncapsulationPrivate.exe
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\bin\Debug\net8.0\EncapsulationPrivate.deps.json
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\bin\Debug\net8.0\EncapsulationPrivate.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\bin\Debug\net8.0\EncapsulationPrivate.dll
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\bin\Debug\net8.0\EncapsulationPrivate.pdb
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.dll
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\refint\EncapsulationPrivate.dll
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.pdb
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\EncapsulationPrivate.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Batch 11\Encapsulation_Private\obj\Debug\net8.0\ref\EncapsulationPrivate.dll
