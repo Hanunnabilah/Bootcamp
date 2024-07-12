@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\bin\Debug\net8.0\Abstraction_Abstract.exe
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\bin\Debug\net8.0\Abstraction_Abstract.deps.json
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\bin\Debug\net8.0\Abstraction_Abstract.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\bin\Debug\net8.0\Abstraction_Abstract.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\bin\Debug\net8.0\Abstraction_Abstract.pdb
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\refint\Abstraction_Abstract.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.pdb
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\Abstraction_Abstract.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Abstract\obj\Debug\net8.0\ref\Abstraction_Abstract.dll

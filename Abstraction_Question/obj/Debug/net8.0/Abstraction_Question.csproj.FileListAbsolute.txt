@@ -1,0 +1,15 @@
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.sourcelink.json
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\bin\Debug\net8.0\Abstraction_Question.exe
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\bin\Debug\net8.0\Abstraction_Question.deps.json
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\bin\Debug\net8.0\Abstraction_Question.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\bin\Debug\net8.0\Abstraction_Question.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\bin\Debug\net8.0\Abstraction_Question.pdb
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\refint\Abstraction_Question.dll
+C:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.pdb
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\Abstraction_Question.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Batch 11\Abstraction_Question\obj\Debug\net8.0\ref\Abstraction_Question.dll
