@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Polymorphism_Overriding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8357dcea53e5e30573f348d9e7e8d96d5aab2c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc5239ff90e13318c9650321686f134467da1315")]
 [assembly: System.Reflection.AssemblyProductAttribute("Polymorphism_Overriding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Polymorphism_Overriding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
