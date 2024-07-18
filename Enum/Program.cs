@@ -63,7 +63,7 @@ class Program
 		
 		// unboxing class enum days to int
 		int DaysOfWeek = (int) Days.Tue;
-		// search day of 2 in a week?
+		// find what day of 2 in enum days
 		Days resultDay = (Days)2; 
 		Console.WriteLine(DaysOfWeek);
 		Console.WriteLine(resultDay);		
