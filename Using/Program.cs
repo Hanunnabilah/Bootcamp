@@ -1,21 +1,11 @@
-﻿using System.Net.Http.Headers;
-
-class Program
+﻿﻿class Program 
 {
-	static void Main()
+	static void Main() 
 	{
-		MyMethod();
-	}
-	static void MyMethod()
-	{
-		using(FileStream fs = new FileStream())
+		string path = "./file.txt";
+		using(FileStream fs = new(path, FileMode.Create)) //using is try and finally dispose
 		{
-		AnotherMethod(fs);
-		// fs.Dispose();
-		}
-	}
-	static void AnotherMethod(FileStream fs)
-	{
-		
+			
+		} // dispose
 	}
 }
