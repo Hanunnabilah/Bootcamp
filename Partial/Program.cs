@@ -1,19 +1,11 @@
-﻿class KakekNenek
+﻿namespace ProgramBootcamp; //using same namespace
+public partial class Bootcamp
 {
-	public string name = "Kakek dan Nenek";
-}
-class BapakIbu : KakekNenek 
-{
-	public int age = 7575;
-}
-class Anak : BapakIbu
-{
-	public string nama = "Anakmu";
-}
-class Program
-{
-	static void Main()
+	public string participantName;
+	public string address;
+	public Bootcamp(string participantName, string address)
 	{
-		
+		this.participantName = participantName;
+		this.address = address;
 	}
 }
