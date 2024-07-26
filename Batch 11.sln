@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -162,6 +162,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Using", "Using\Using.csproj", "{A914B00E-9B30-41B2-AFE9-E09D3327B4D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassPrint", "ClassPrint\ClassPrint.csproj", "{BB2C1F23-0508-4FE1-A5BA-C35E84369A83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day17", "Day17", "{96090AE3-EF31-4DF2-94DC-DEA98F649752}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{B4934ADB-386C-4F99-ABF2-6D972200CA57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial", "Partial\Partial.csproj", "{550F3F06-964E-44D9-9F9F-F22F3FBF4854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -445,6 +451,14 @@ Global
 		{BB2C1F23-0508-4FE1-A5BA-C35E84369A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB2C1F23-0508-4FE1-A5BA-C35E84369A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB2C1F23-0508-4FE1-A5BA-C35E84369A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4934ADB-386C-4F99-ABF2-6D972200CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4934ADB-386C-4F99-ABF2-6D972200CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4934ADB-386C-4F99-ABF2-6D972200CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4934ADB-386C-4F99-ABF2-6D972200CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{550F3F06-964E-44D9-9F9F-F22F3FBF4854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{550F3F06-964E-44D9-9F9F-F22F3FBF4854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{550F3F06-964E-44D9-9F9F-F22F3FBF4854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{550F3F06-964E-44D9-9F9F-F22F3FBF4854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
