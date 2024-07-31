@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRoom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Room>
+    <Id>0</Id>
+    <Name>Meeting Room A</Name>
+  </Room>
+  <Room>
+    <Id>0</Id>
+    <Name>Meeting Room B</Name>
+  </Room>
+  <Room>
+    <Id>0</Id>
+    <Name>BallRoom</Name>
+  </Room>
+  <Room>
+    <Id>0</Id>
+    <Name>Creative Studio</Name>
+  </Room>
+  <Room>
+    <Id>0</Id>
+    <Name>Pantry Room</Name>
+  </Room>
+</ArrayOfRoom>
