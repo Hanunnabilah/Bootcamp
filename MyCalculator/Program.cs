@@ -1,9 +1,10 @@
-﻿namespace MyCalculator;
+namespace MyCalculator;
 
-public class MyCalculator
+public class Program
 {
-	public int Add(int x, int y)
+	public static void Main()
+	
 	{
-		return x+y;
+		
 	}
 }
