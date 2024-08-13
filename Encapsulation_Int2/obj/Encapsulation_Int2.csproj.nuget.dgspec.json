@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj",
         "projectName": "Encapsulation_Int2",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\Encapsulation_Int2.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Encapsulation_Int2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

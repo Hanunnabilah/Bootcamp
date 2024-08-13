@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj",
         "projectName": "Inheritance Composition",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\Inheritance Composition.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Inheritance Composition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

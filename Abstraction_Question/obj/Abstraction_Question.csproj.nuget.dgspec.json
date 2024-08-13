@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj",
         "projectName": "Abstraction_Question",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\Abstraction_Question.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Abstraction_Question\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

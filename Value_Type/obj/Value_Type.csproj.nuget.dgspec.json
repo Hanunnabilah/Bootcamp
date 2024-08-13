@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj",
         "projectName": "Value_Type",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\Value_Type.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Value_Type\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

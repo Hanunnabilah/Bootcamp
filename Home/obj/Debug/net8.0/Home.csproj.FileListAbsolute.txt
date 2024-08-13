@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch 11\home\obj\Debug\net8.0\refint\Home.dll
 C:\Users\Batch 11\Desktop\Batch 11\home\obj\Debug\net8.0\Home.pdb
 C:\Users\Batch 11\Desktop\Batch 11\home\obj\Debug\net8.0\Home.genruntimeconfig.cache
 C:\Users\Batch 11\Desktop\Batch 11\home\obj\Debug\net8.0\ref\Home.dll
+C:\Users\Batch 11\Desktop\Batch 11\Home\obj\Debug\net8.0\Home.sourcelink.json

@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch 11\calculator\obj\Debug\net8.0\refint\Calculator
 C:\Users\Batch 11\Desktop\Batch 11\calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\Batch 11\Desktop\Batch 11\calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\Batch 11\Desktop\Batch 11\calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\Batch 11\Desktop\Batch 11\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json

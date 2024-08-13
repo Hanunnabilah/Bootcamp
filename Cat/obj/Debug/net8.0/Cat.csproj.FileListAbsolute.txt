@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch 11\Cat\obj\Debug\net8.0\refint\Cat.dll
 C:\Users\Batch 11\Desktop\Batch 11\Cat\obj\Debug\net8.0\Cat.pdb
 C:\Users\Batch 11\Desktop\Batch 11\Cat\obj\Debug\net8.0\Cat.genruntimeconfig.cache
 C:\Users\Batch 11\Desktop\Batch 11\Cat\obj\Debug\net8.0\ref\Cat.dll
+C:\Users\Batch 11\Desktop\Batch 11\Cat\obj\Debug\net8.0\Cat.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\polymorphism_overriding2\\Polymorphism_Overriding2.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Polymorphism_Overriding2\\Polymorphism_Overriding2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\polymorphism_overriding2\\Polymorphism_Overriding2.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Polymorphism_Overriding2\\Polymorphism_Overriding2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\polymorphism_overriding2\\Polymorphism_Overriding2.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Polymorphism_Overriding2\\Polymorphism_Overriding2.csproj",
         "projectName": "Polymorphism_Overriding2",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\polymorphism_overriding2\\Polymorphism_Overriding2.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Polymorphism_Overriding2\\Polymorphism_Overriding2.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\polymorphism_overriding2\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Batch 11\\Polymorphism_Overriding2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

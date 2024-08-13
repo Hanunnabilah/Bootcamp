@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Batch 11\kumi\obj\Debug\net8.0\refint\Kumi.dll
 C:\Users\Batch 11\Desktop\Batch 11\kumi\obj\Debug\net8.0\Kumi.pdb
 C:\Users\Batch 11\Desktop\Batch 11\kumi\obj\Debug\net8.0\Kumi.genruntimeconfig.cache
 C:\Users\Batch 11\Desktop\Batch 11\kumi\obj\Debug\net8.0\ref\Kumi.dll
+C:\Users\Batch 11\Desktop\Batch 11\Kumi\obj\Debug\net8.0\Kumi.sourcelink.json
