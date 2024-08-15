@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<DataContext>(options =>
 {
-	options.UseSqlite("FileName=./MyDatabase.db");
+	options.UseSqlite("File Name=./MyDatabase.db");
 });
 
 var app = builder.Build();
